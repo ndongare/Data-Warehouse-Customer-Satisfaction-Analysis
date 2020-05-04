@@ -1,6 +1,6 @@
 # Data-Warehouse-Customer-Satisfaction-Analysis
 
-The project involves building an integrated data warehouse/ business intelligence solution for Fudge, Inc. for customer satisfaction analysis. The goal was to create an integrated warehouse for 2 subsidiaries of Fudge, Inc : FudgeMart and FudgeFlix. 
+The project involves building an integrated data warehouse/ business intelligence solution for Fudge Corporation for customer satisfaction analysis. The goal was to create an integrated warehouse for 2 subsidiaries of Fudge Corporation: FudgeMart and FudgeFlix. 
 
 1. Fudgemart – Fudgemart is a fictitious online retailer, similar to Amazon.com or Walmart.com. The database consists of customers, products and vendors, and has familiar business processes you would find in any online retailer.
 2. Fudgeflix – Fudgeflix is a fictitious online DVD by mail and video on demand service, similar to Amazon instant video or Netflix. The database for Fudgeflix is called Fudgeflix_v3 and contains concepts such as accounts, subscriptions and video titles as well as other things associated with an online video streaming service. 
